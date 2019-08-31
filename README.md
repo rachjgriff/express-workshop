@@ -1,3 +1,5 @@
+# RACHEL GRIFFITHS
+
 <img src="https://github.com/node-girls/workshop-cms/blob/master/readme-images/logo.png?raw=true">
 
 # Express Workshop
